@@ -1,0 +1,9 @@
+p {
+    color: blue;
+}
+
+.callout {
+    font-style: italic;
+    font-weight: 700;
+    color: coral;
+}
